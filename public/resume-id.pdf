@@ -1,0 +1,130 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 4596 >>
+stream
+0.03 0.03 0.04 rg 0 760 595 82 re f
+0.02 0.59 0.41 rg 0 757 595 3 re f
+1 1 1 rg
+BT /F2 22 Tf 1 0 0 1 48 805 Tm (RAFA PRAMUDYA SUSANTO) Tj ET
+0.65 0.65 0.7 rg
+BT /F1 8 Tf 1 0 0 1 48 786 Tm (AI & VISI KOMPUTER  /  SIMULASI FISIKA) Tj ET
+0.55 0.9 0.72 rg
+BT /F1 8 Tf 1 0 0 1 48 769 Tm (+62 821-1199-6769  ∑  Bekasi, Jawa Barat, Indonesia  ∑  rafapramudya.dev) Tj ET
+0.02 0.59 0.41 rg
+BT /F2 9 Tf 1 0 0 1 48 736 Tm (PROFIL) Tj ET
+0.88 0.88 0.9 RG 0.7 w 48 730 m 547 730 l S
+0.34 0.34 0.39 rg
+BT /F1 9.5 Tf 1 0 0 1 48 718 Tm (Pengembang SMA yang berfokus pada visi komputer dan simulasi 3D real-time. Saya membangun sistem yang) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9.5 Tf 1 0 0 1 48 703 Tm (membaca dunia fisik: pipeline deteksi gestur dan objek yang berjalan on-device, serta sandbox gravitasi) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9.5 Tf 1 0 0 1 48 688 Tm (rigid-body dengan solver kontak buatan sendiri.) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9.5 Tf 1 0 0 1 48 671 Tm (Nyaman di sepanjang stack: OpenCV dan model landmark di satu sisi, WebGL dan antarmuka React yang aksesibel) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9.5 Tf 1 0 0 1 48 656 Tm (di sisi lain. Mencari magang dan kolaborasi open-source tempat anggaran frame benar-benar nyata.) Tj ET
+0.02 0.59 0.41 rg
+BT /F2 9 Tf 1 0 0 1 48 625 Tm (PROYEK PILIHAN) Tj ET
+0.88 0.88 0.9 RG 0.7 w 48 619 m 547 619 l S
+0.09 0.09 0.11 rg
+BT /F2 10.5 Tf 1 0 0 1 48 605 Tm (Deteksi Gestur & Objek AI) Tj ET
+0.55 0.55 0.6 rg
+BT /F1 8 Tf 1 0 0 1 372.736 605 Tm (Python ∑ OpenCV ∑ MediaPipe ∑ TensorFlow Lite) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9 Tf 1 0 0 1 48 591 Tm (Pipeline visi komputer yang melacak landmark tangan dan mendeteksi objek sehari-hari dari feed kamera langsung,) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9 Tf 1 0 0 1 48 577.5 Tm (lalu memetakan hasilnya ke gestur. Semuanya berjalan on-device pada 31 FPS.) Tj ET
+0.09 0.09 0.11 rg
+BT /F2 10.5 Tf 1 0 0 1 48 557 Tm (Mesin Fisika 3D & Simulasi Gravitasi) Tj ET
+0.55 0.55 0.6 rg
+BT /F1 8 Tf 1 0 0 1 407.4 557 Tm (TypeScript ∑ WebGL ∑ Three.js ∑ GLSL) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9 Tf 1 0 0 1 48 543 Tm (Sandbox rigid-body 3D dengan integrator buatan sendiri, respons tumbukan berbasis impuls, dan inspector) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9 Tf 1 0 0 1 48 529.5 Tm (parameter langsung. Dirancang tetap stabil di 60 FPS saat adegan makin ramai.) Tj ET
+0.02 0.59 0.41 rg
+BT /F2 9 Tf 1 0 0 1 48 503 Tm (KEAHLIAN TEKNIS) Tj ET
+0.88 0.88 0.9 RG 0.7 w 48 497 m 547 497 l S
+0.09 0.09 0.11 rg
+BT /F2 9 Tf 1 0 0 1 48 481 Tm (Bahasa) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9 Tf 1 0 0 1 134 481 Tm (Python, TypeScript / JavaScript, C++, GLSL, SQL) Tj ET
+0.09 0.09 0.11 rg
+BT /F2 9 Tf 1 0 0 1 48 465 Tm (Visi) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9 Tf 1 0 0 1 134 465 Tm (OpenCV, MediaPipe, TensorFlow Lite, PyTorch, NumPy) Tj ET
+0.09 0.09 0.11 rg
+BT /F2 9 Tf 1 0 0 1 48 449 Tm (Simulasi) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9 Tf 1 0 0 1 134 449 Tm (Three.js, WebGL, dinamika rigid-body, tumbukan & konstrain) Tj ET
+0.09 0.09 0.11 rg
+BT /F2 9 Tf 1 0 0 1 48 433 Tm (Web) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9 Tf 1 0 0 1 134 433 Tm (Next.js App Router, React, Tailwind CSS, Node.js, Git) Tj ET
+0.02 0.59 0.41 rg
+BT /F2 9 Tf 1 0 0 1 48 409 Tm (PENDIDIKAN) Tj ET
+0.88 0.88 0.9 RG 0.7 w 48 403 m 547 403 l S
+0.09 0.09 0.11 rg
+BT /F2 10 Tf 1 0 0 1 48 387 Tm (SMA Negeri 9 Bekasi) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 8.5 Tf 1 0 0 1 382.1595 387 Tm (Matematika & Ilmu Komputer ∑ Angkatan 26) Tj ET
+0.02 0.59 0.41 rg
+BT /F2 9 Tf 1 0 0 1 48 359 Tm (SERTIFIKAT & PENGHARGAAN) Tj ET
+0.88 0.88 0.9 RG 0.7 w 48 353 m 547 353 l S
+0.02 0.59 0.41 rg
+BT /F1 10 Tf 1 0 0 1 48 337 Tm (-) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9 Tf 1 0 0 1 60 337 Tm (Juara 1 KSN-Kec. Matematika 2020 ó Dinas Pendidikan Kota Bekasi, Maret 2020) Tj ET
+0.02 0.59 0.41 rg
+BT /F1 10 Tf 1 0 0 1 48 322 Tm (-) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9 Tf 1 0 0 1 60 322 Tm (Juara 1 PRF UI' 23 Robotik ó Universitas Indonesia, Okt 2025) Tj ET
+0.02 0.59 0.41 rg
+BT /F1 10 Tf 1 0 0 1 48 307 Tm (-) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9 Tf 1 0 0 1 60 307 Tm (Juara 1 TFC' 21 Lomba Cepat Tepat ó SMAN 1 Tambun Selatan, Mei 2026) Tj ET
+0.02 0.59 0.41 rg
+BT /F1 10 Tf 1 0 0 1 48 292 Tm (-) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 9 Tf 1 0 0 1 60 292 Tm (Finalis OSN Informatika 2026 ó Puspresnas, Juni 2026 - Sep 2026) Tj ET
+0.55 0.55 0.6 rg
+BT /F1 7 Tf 1 0 0 1 48 40 Tm (CV PLACEHOLDER ó ganti public/resume-id.pdf dengan CV kamu sendiri. Dibuat oleh scripts/generate-resume.mjs.) Tj ET
+0.34 0.34 0.39 rg
+BT /F1 7.5 Tf 1 0 0 1 48 28 Tm (rafapramudya.dev  ∑  github.com/RafaPramudya  ∑  leetcode.com/u/RafaPramudya/  ∑  tlx.toki.id/profiles/Udyaaa) Tj ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Title (Rafa Pramudya Susanto - CV \(Placeholder\)) /Author (Rafa Pramudya Susanto) /Creator (scripts/generate-resume.mjs) >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000004905 00000 n 
+0000005002 00000 n 
+0000005104 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R /Info 7 0 R >>
+startxref
+5248
+%%EOF
